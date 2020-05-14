@@ -3,7 +3,7 @@ module.exports = {
   siteDescription:
     'Quang Hoang Dang is a Front-end developer based in Da Nang, Viet Nam specializing in building exceptional websites, applications, and everything in between.',
   siteKeywords:
-    'Quang Hoang Dang, Quang, Hoang, Dang, bchiang7, software engineer, team leader, front-end engineer, web developer, javascript, danang, da nang, vietnam, viet nam',
+    'Quang Hoang Dang, Quang, Hoang, Dang, software engineer, team leader, front-end engineer, web developer, javascript, danang, da nang, vietnam, viet nam',
   siteUrl: 'https://quanghoang.me',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-150973967-1',
