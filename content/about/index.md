@@ -9,7 +9,7 @@ skills:
   - Database (MongoDB, Postgresql, Firebase)
 ---
 
-Hello! I'm Quang, a front-end developer based in Da Nang, Viet Nam.
+Hello! I'm Quang, a full-stack developer based in Da Nang, Viet Nam.
 
 I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between. My goal is to always build products that provide pixel-perfect, performant experiences.
 

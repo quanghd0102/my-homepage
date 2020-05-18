@@ -1,9 +1,9 @@
 module.exports = {
-  siteTitle: 'Quang Hoang Dang | Front-end Developer',
+  siteTitle: 'Quang Hoang Dang | Full-stack Developer',
   siteDescription:
-    'Quang Hoang Dang is a Front-end developer based in Da Nang, Viet Nam specializing in building exceptional websites, applications, and everything in between.',
+    'Quang Hoang Dang is a Full-stack developer based in Da Nang, Viet Nam specializing in building exceptional websites, applications, and everything in between.',
   siteKeywords:
-    'Quang Hoang Dang, Quang, Hoang, Dang, software engineer, team leader, front-end engineer, web developer, javascript, danang, da nang, vietnam, viet nam',
+    'Quang Hoang Dang, Quang, Hoang, Dang, software engineer, team leader, full stack engineer, web developer, javascript, danang, da nang, vietnam, viet nam',
   siteUrl: 'https://quanghoang.me',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-150973967-1',
@@ -18,8 +18,8 @@ module.exports = {
       url: 'https://github.com/quanghd0102',
     },
     {
-      name: 'Linkedin',
-      url: 'www.linkedin.com/in/quanghd0102',
+      name: 'Skype',
+      url: 'https://join.skype.com/invite/bYIebhWNLVI7',
     },
   ],
 

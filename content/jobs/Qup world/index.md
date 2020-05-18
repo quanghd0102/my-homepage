@@ -1,6 +1,6 @@
 ---
 date: '2013-08-01'
-title: 'Node.js & Front-end Developer'
+title: 'Full-stack Developer'
 company: 'Qup world'
 location: 'Da Nang, Viet Nam'
 range: 'Aug 2013 - Apr 2015'
